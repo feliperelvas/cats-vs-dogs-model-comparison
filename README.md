@@ -23,6 +23,7 @@ Além disso, foi criada uma aplicação em **Streamlit** que permite ao usuário
 
 ## 🗂️ Estrutura do Repositório
 
+```
 ├── 00_salvando_dados.ipynb
 ├── 01_fc_cat_dog.ipynb
 ├── 02_conv_cat_dog.ipynb
@@ -30,7 +31,7 @@ Além disso, foi criada uma aplicação em **Streamlit** que permite ao usuário
 ├── 04_streamlit_grad-cam.py
 ├── requirements.txt
 └── README.md
-
+```
 
 ---
 
