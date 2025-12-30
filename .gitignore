@@ -205,3 +205,15 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Pasta dos arquivos
+cat_dog/
+split_data/
+
+# Csv com arquivos
+cat_dog.csv
+
+# modelos
+fc_melhor_modelo.pth
+melhor_modelo_conv.pth
+melhor_modelo_resnet.pth
